@@ -1,0 +1,111 @@
+# Política de Privacidade
+## Dente não é pregador
+
+**Última atualização:** 10 de outubro de 2026  
+**Aplicativo:** Dente não é pregador  
+**Plataforma:** Android  
+**Identificador do aplicativo:** `com.aistudio.dentenaopregador.relax`
+
+### 1. Sobre esta política
+
+O aplicativo **Dente não é pregador** tem como objetivo incentivar a conscientização sobre o apertamento dentário, o relaxamento da mandíbula e os cuidados relacionados à Disfunção Temporomandibular (DTM) e ao bruxismo de vigília.
+
+Esta política explica quais informações são registradas pelo aplicativo, como são armazenadas, em quais situações podem ser compartilhadas e como o usuário pode excluí-las.
+
+### 2. Informações registradas
+
+Durante a utilização do aplicativo, o usuário poderá fornecer ou gerar as seguintes informações:
+
+- **Nome de preferência:** nome informado para personalizar a experiência.
+- **Registros de apertamento dentário:** informações sobre o hábito de manter os dentes encostados ou relaxados.
+- **Informações relacionadas à saúde:** presença, intensidade e localização de dores, atividades realizadas e estados emocionais informados pelo usuário.
+- **Sessões de respiração:** histórico das sessões de respiração guiada realizadas.
+- **Informações de utilização:** sequência de registros, conquistas e preferências, incluindo configurações de notificações e lembretes.
+
+O aplicativo não exige cadastro, criação de conta, endereço de e-mail, senha ou autenticação em redes sociais para seu funcionamento.
+
+### 3. Armazenamento e utilização dos dados
+
+As informações registradas são utilizadas para disponibilizar as funcionalidades do aplicativo, como histórico pessoal, acompanhamento dos registros, conquistas, personalização e lembretes.
+
+Os registros são armazenados localmente no dispositivo Android, por meio de banco de dados e arquivos de preferências do próprio aplicativo.
+
+Na versão analisada, não foram identificadas funcionalidades implementadas no código-fonte que transmitam esses registros para servidores próprios ou que realizem coleta analítica remota.
+
+**Importante sobre backups:** o Android pode incluir dados de aplicativos em cópias de segurança ou transferências entre dispositivos, conforme a versão do sistema, as regras do aplicativo e as configurações do usuário. Portanto, não é possível garantir que os dados permaneçam exclusivamente no aparelho enquanto os backups estiverem habilitados. O usuário deve considerar também as configurações de backup e segurança de sua conta e dispositivo.
+
+### 4. Compartilhamento de informações
+
+O aplicativo não possui, na versão analisada, uma funcionalidade própria de envio dos registros de saúde para o desenvolvedor.
+
+O usuário pode optar por exportar relatórios em PDF para consultar ou compartilhar suas informações com um profissional de saúde. Esse compartilhamento é iniciado pelo próprio usuário por meio dos recursos de compartilhamento do Android.
+
+Quando um documento é enviado por e-mail, aplicativo de mensagens, serviço de armazenamento ou outra ferramenta externa, seu tratamento passa a depender também das políticas e práticas do serviço escolhido.
+
+O aplicativo contém um acesso ao perfil profissional no Instagram. Ao utilizar esse recurso, o usuário poderá ser direcionado a um serviço externo, sujeito à política de privacidade da respectiva plataforma.
+
+Não foram identificadas funcionalidades próprias de publicidade direcionada ou venda de dados pessoais no código-fonte analisado.
+
+### 5. Notificações
+
+O aplicativo pode utilizar notificações e alarmes locais para lembrar o usuário de relaxar a mandíbula e verificar o posicionamento dos dentes.
+
+Esses lembretes são programados no dispositivo e podem ser desativados ou ajustados nas configurações do aplicativo e do Android.
+
+As notificações não exigem que o usuário forneça sua localização ou seus contatos.
+
+### 6. Relatórios em PDF
+
+O aplicativo permite gerar relatórios com informações registradas pelo usuário, destinados ao acompanhamento pessoal ou à apresentação a um profissional de saúde.
+
+Esses relatórios podem conter informações pessoais e relacionadas à saúde. O usuário deve verificar o conteúdo antes de compartilhá-los e escolher cuidadosamente os destinatários e os aplicativos utilizados.
+
+### 7. Segurança das informações
+
+O aplicativo utiliza os mecanismos de armazenamento local disponibilizados pelo Android. O acesso aos arquivos internos do aplicativo é sujeito aos controles do sistema operacional.
+
+O usuário deve manter seu dispositivo protegido por senha, biometria ou outro mecanismo de segurança adequado e evitar compartilhar relatórios que contenham informações pessoais com pessoas não autorizadas.
+
+Nenhum método de armazenamento ou transmissão pode ser considerado absolutamente seguro. A segurança também depende das configurações do dispositivo, dos backups e dos serviços externos utilizados pelo usuário.
+
+### 8. Exclusão dos dados
+
+O usuário pode excluir registros individuais e limpar o histórico por meio das funcionalidades disponíveis no aplicativo.
+
+A exclusão do histórico dentro do aplicativo não implica necessariamente a remoção de cópias existentes em backups, relatórios PDF exportados ou arquivos previamente compartilhados.
+
+A desinstalação normalmente remove os dados locais associados ao aplicativo, observadas as regras de backup e restauração do Android.
+
+Caso o usuário precise de esclarecimentos sobre o tratamento de informações pessoais, poderá entrar em contato pelo canal informado nesta política.
+
+### 9. Privacidade de crianças e adolescentes
+
+O aplicativo possui funcionalidades educativas relacionadas à saúde bucal. Pais ou responsáveis devem acompanhar sua utilização por crianças e adolescentes, especialmente quando forem inseridas informações pessoais ou relacionadas à saúde.
+
+O responsável pelo aplicativo não solicita intencionalmente dados de crianças por meio de cadastro ou formulário remoto na versão analisada.
+
+### 10. Direitos do titular dos dados
+
+Nos termos da legislação aplicável, especialmente a Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), o titular poderá exercer os direitos pertinentes ao tratamento de seus dados, incluindo solicitar esclarecimentos, correção de informações aplicáveis e informações sobre o tratamento.
+
+Como os registros são mantidos principalmente no dispositivo do usuário e não foi identificada uma base remota própria para armazená-los, a exclusão dos registros deverá ser realizada, em regra, pelas funcionalidades do próprio aplicativo.
+
+Solicitações e dúvidas poderão ser encaminhadas ao contato indicado nesta política.
+
+### 11. Alterações desta política
+
+Esta política poderá ser atualizada para refletir mudanças nas funcionalidades do aplicativo, nos procedimentos de tratamento de dados ou nas exigências legais e da Google Play.
+
+A data da última atualização será indicada no início do documento. Recomenda-se consultar periodicamente a versão publicada.
+
+### 12. Contato
+
+**Responsável pelo aplicativo:** Dra. Alinny Gobetti  
+**E-mail:** juliopicoreti@gmail.com  
+
+
+Para dúvidas ou solicitações relacionadas à privacidade, utilize os canais acima.
+
+---
+
+Esta política deve ser publicada em um endereço público e acessível, sem necessidade de login, antes de ser informada no Google Play Console.
